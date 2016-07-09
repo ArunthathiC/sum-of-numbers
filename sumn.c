@@ -1,9 +1,9 @@
 #include<stdio.h>
 void main(){
-  int n,sum=0;
-  scanf("%d",&n);
+  int a,s=0;
+  scanf("%d",&a);
   for(i=1;i==n;i++){
-  sum=sum+i;
+  s=s+i;
   }
-  printf("The sum of natural numbers:%d",sum);
+  printf("Sum:%d",s);
   }
